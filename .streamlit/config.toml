@@ -1,7 +1,0 @@
-[client]
-toolbarMode = "viewer"
-showErrorDetails = false
-
-[theme]
-base = "light"
-primaryColor = "#FF4B4B"
